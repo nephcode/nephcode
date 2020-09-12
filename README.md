@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi Guys, I am Nephelim "the Blockchain Crypto Girl" A.K.A "beauty youcoder" on youtube. My channel is only in French.
+https://www.youtube.com/channel/UCDYekm8caMtdAad9ky-343g?sub_confirmation=1
+
+
 
 <!--
 **cohenbiz/cohenbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
