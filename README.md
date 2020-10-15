@@ -1,4 +1,4 @@
-![Cover](https://github.com/cohenbiz/cohenbiz/master/images/cover.jpg)
+![Cover](https://github.com/cohenbiz/cohenbiz/blob/master/images/cover.jpg)
 
 
 ### Hi Guys, I am Nephelim "the Blockchain Crypto Girl" A.K.A "beauty youcoder" on youtube. My channel is only in French.
