@@ -1,12 +1,13 @@
 ![Cover](https://github.com/cohenbiz/cohenbiz/blob/master/githubReadmeHeader.png)
 
-#NEPHELIM COHEN
+# NEPHELIM COHEN
 
-##About me
+## About me
 
+*Long Story Short*
+I am **Nephelim** From France, I am Product Owner and developer. I was SEO expert, Marketing Manager and Event planner. Before Covid Crisis, I Launched private parties in europe. Now I upgrade my project in new business. 
 
-
-##My Skills
+## My Skills
 
 |HARD SKILL|LEVEL|
 |---:|---|
@@ -21,7 +22,7 @@
 
 <!-- ##My Certification-->
 
-##My social network
+## My social network
 
 |NETWORK|URL|
 |---:|:---|
