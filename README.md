@@ -1,4 +1,4 @@
-![Cover](https://github.com/cohenbiz/cohenbiz/blob/master/githubReadmeHeader.png)
+![Cover](https://github.com/npnpeeh/cohenbiz/blob/master/images/githubReadmeHeader.png)
 
 # NEPHELIM COHEN
 
@@ -28,14 +28,14 @@ I am **Nephelim** From France, I am Product Owner and developer. I was SEO exper
 |---:|:---|
 |`LINKEDIN`|[nephelim](https://www.linkedin.com/in/nephelim/)|
 |`MALT`|[nephelim](https://www.malt.fr/profile/nephelim)|
-|`GITHUB`|[cohenbiz](https://https://github.com/cohenbiz/) (^^)|
+|`GITHUB`|[cohenbiz](https://https://github.com/nephcode/) (^^)|
 |`DRIBBBLE`|[nephelim](https://dribbble.com/nephelim)|
 |`YOUTUBE`|[Youcode Beauté](https://www.youtube.com/channel/UCDYekm8caMtdAad9ky-343g?sub_confirmation=1)|
 |`CODEPEN`|[cohenbiz](https://codepen.io/cohenbiz)|
 |`CODE SANDBOX`|[cohenbiz](https://codesandbox.io/u/cohenbiz)|
 
 
-![Cover](https://github.com/cohenbiz/cohenbiz/blob/master/githubReadmeSkills.png)
+![Cover](https://github.com/nephcode/nephcode/blob/master/images/githubReadmeSkills.png)
 
 
 
