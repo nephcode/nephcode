@@ -1,4 +1,4 @@
-![Cover](https://github.com/npnpeeh/cohenbiz/blob/master/images/githubReadmeHeader.png)
+![Cover](https://github.com/nephcode/nephcode/blob/master/images/githubReadmeHeader.png)
 
 # NEPHELIM COHEN
 
