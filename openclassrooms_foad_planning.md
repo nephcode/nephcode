@@ -10,8 +10,8 @@ Développeuse Blockchain Web3 - Solidity
 |      Projet | Durée | Début                    | Soutenance                 | Avancement |
 | ----------: | :---: | :----------------------- | :------------------------- | :--------: |
 |   Projet 06 | 200H  | Lundi 15 Avril 2024      | Jeudi 25 Avril 2024        |    90%     |
-|   Projet 08 |  01H  | Vendredi 25 Avril 2024   | Vendredi 25 avril 2024     |     -      |
-|   Projet 07 |  90H  | Samedi 26 Avril 2024     | Mercredi 15 Mai 2024       |     -      |
+|   Projet 08 |  01H  | Vendredi 26 Avril 2024   | Vendredi 26 avril 2024     |     -      |
+|   Projet 07 |  90H  | Samedi 2 Avril 2024     | Mercredi 15 Mai 2024       |     -      |
 |   Projet 11 |  60H  | Jeudi 16 Mai 2024        | Lundi 03 Juin 2024         |     -      |
 |   Projet 12 |  60H  | Mardi 04 Juin 2024       | Jeudi 21 Juin 2024         |     -      |
 |   Projet 13 | 100H  | Vendredi 22 Juin 2024    | Jeudi 25 Juillet 2024      |     -      |
