@@ -2,10 +2,10 @@
 
 # NEPHELIM COHEN
 
-## About me
+## ABOUT ME
 
 _Long Story Short_  
-I am **Nephelim** From France, I am Product Owner and developer.
+I am **Nephelim** from France. I am web3 Fullstack developer & Advisor.
 
 ## My Skills
 
@@ -14,12 +14,19 @@ I am **Nephelim** From France, I am Product Owner and developer.
 |   FRONTEND | `REACT` `PURE SASS` `VANILLA JS`     |
 | BLOCKCHAIN | `SOLIDITY` `EVM`                     |
 |   CONTRACT | `HARDHAT` `FOUNDRY`                  |
-|  FRAMEWORK | `REACT 18.3` `NEXT LATEST`           |
-|        API | `RECHARTS`                           |
-|     ADD-ON | `REDUX`                              |
-|   BACK-END | `NODE 22.x` `DENO 1.45` `BUN 1.1.21` |
+|  FRAMEWORK | `REACT 19` `REMIX`           |
+|        API | `NEST`                           |
+|     ADD-ON | `REDUX` `DRIZZLE` `ZOD`                             |
+|   BACK-END | `NODE 22.x` `DENO 2.0` `BUN 1.1.31` |
 
-<!-- ##My Certification-->
+##Certification
+
+| HARD SKILL | LEVEL                                |
+| ---------: | ------------------------------------ |
+|   FRONTEND | Master Web application React      |
+|   CROWDFUNDING | Crowdfunding Expert Ulule      |
+|   SEO | SEO Expert     |
+|   COM | Bachelor Communication     |
 
 ## My social network
 
