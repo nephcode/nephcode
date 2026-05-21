@@ -23,7 +23,7 @@ I am **Nephelim** from France. I am web3 Fullstack developer & Advisor.
 ## My Certification
 
 |      LEVEL | HARD SKILL                  | SCHOOL                                              |
-| ---------: | --------------------------------------------------------------------------------- |
+| ---------: | ----------------------------| --------------------------------------------------- |
 |  MASTER II | System Architect            | [42 PARIS](https://42.fr/)                          |
 |   MASTER I | Developer React Application | [OPENCLASSROOMS](https://openclassrooms.com/)       |
 |   BACHELOR | Communication & Marketing   | [ISCOM](https://www.iscom.fr/)                      |
