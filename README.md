@@ -1,7 +1,7 @@
 ![Cover](https://github.com/nephcode/nephcode/blob/master/images/githubReadmeHeader.png)
 
 # NEPHELIM COHEN
-
+The build in public is alive here [BuildInPublic](https://github.com/users/nephcode/projects/8)
 ## ABOUT ME
 
 _Long Story Short_  
@@ -18,15 +18,17 @@ I am **Nephelim** from France. I am web3 Fullstack developer & Advisor.
 |        API | `NEST`                               |
 |     ADD-ON | `REDUX` `DRIZZLE` `ZOD`              |
 |   BACK-END | `NODE 22.x` `DENO 2.0` `BUN 1.1.31`  |
+|  LOW LEVEL | `C` `ZIG`                            |
 
 ## My Certification
 
-|      LEVEL | HARD SKILL                             |
-| ---------: | -------------------------------------- |
-|     MASTER | Developer React Application            |
-|   BACHELOR | Communication & Marketing              |
-|       SPEC | Crowdfunding Expert Ulule              |
-|       SPEC | SEO Expert                             |
+|      LEVEL | HARD SKILL                  | SCHOOL                                              |
+| ---------: | --------------------------------------------------------------------------------- |
+|  MASTER II | System Architect            | [42 PARIS](https://42.fr/)                          |
+|   MASTER I | Developer React Application | [OPENCLASSROOMS](https://openclassrooms.com/)       |
+|   BACHELOR | Communication & Marketing   | [ISCOM](https://www.iscom.fr/)                      |
+|       SPEC | Crowdfunding Expert Ulule   | [ULULE](https://fr.ulule.com/users/illuminateam/)   |
+|       SPEC | SEO Expert                  | [DENTSU](https://www.dentsu.com/)                   |
 
 ## My social network
 
